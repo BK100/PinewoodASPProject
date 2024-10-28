@@ -1,0 +1,6 @@
+@PinewoodProjectBackend_HostAddress = http://localhost:5220
+
+GET {{PinewoodProjectBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

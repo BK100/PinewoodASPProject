@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectbackend\\controllers\\customerdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|solutionrelative:pinewoodprojectbackend\\controllers\\customerdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectbackend\\data\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|solutionrelative:pinewoodprojectbackend\\data\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectbackend\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|solutionrelative:pinewoodprojectbackend\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectfrontend\\components\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|solutionrelative:pinewoodprojectfrontend\\components\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectfrontend\\components\\pages\\customers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|solutionrelative:pinewoodprojectfrontend\\components\\pages\\customers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectfrontend\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|solutionrelative:pinewoodprojectfrontend\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectfrontend\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|solutionrelative:pinewoodprojectfrontend\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectfrontend\\components\\models\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|solutionrelative:pinewoodprojectfrontend\\components\\models\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectbackend\\models\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|solutionrelative:pinewoodprojectbackend\\models\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|solutionrelative:pinewoodprojectbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectbackend\\pinewoodprojectbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{941F81CF-EFE4-4993-889D-E23AD7DAD4C4}|PinewoodProjectBackend\\PinewoodProjectBackend.csproj|solutionrelative:pinewoodprojectbackend\\pinewoodprojectbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectfrontend\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|solutionrelative:pinewoodprojectfrontend\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectfrontend\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|solutionrelative:pinewoodprojectfrontend\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectfrontend\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|solutionrelative:pinewoodprojectfrontend\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectfrontend\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|solutionrelative:pinewoodprojectfrontend\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectfrontend\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|solutionrelative:pinewoodprojectfrontend\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|c:\\users\\floof\\desktop\\game\\repo\\pinewoodaspproject\\pinewoodprojectbackend\\pinewoodprojectfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1EF777-CE67-4E25-98B4-93EB94AA78D3}|PinewoodProjectFrontend\\PinewoodProjectFrontend.csproj|solutionrelative:pinewoodprojectfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customers.razor",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Pages\\Customers.razor",
+              "RelativeDocumentMoniker": "PinewoodProjectFrontend\\Components\\Pages\\Customers.razor",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Pages\\Customers.razor",
+              "RelativeToolTip": "PinewoodProjectFrontend\\Components\\Pages\\Customers.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T13:43:33.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\Controllers\\CustomerDataController.cs",
+              "RelativeDocumentMoniker": "PinewoodProjectBackend\\Controllers\\CustomerDataController.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\Controllers\\CustomerDataController.cs",
+              "RelativeToolTip": "PinewoodProjectBackend\\Controllers\\CustomerDataController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:51:56.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HTTPHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\HTTPHelper.cs",
+              "RelativeDocumentMoniker": "PinewoodProjectFrontend\\HTTPHelper.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\HTTPHelper.cs",
+              "RelativeToolTip": "PinewoodProjectFrontend\\HTTPHelper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:30:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PinewoodProjectBackend.http",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\PinewoodProjectBackend.http",
+              "RelativeDocumentMoniker": "PinewoodProjectBackend\\PinewoodProjectBackend.http",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\PinewoodProjectBackend.http",
+              "RelativeToolTip": "PinewoodProjectBackend\\PinewoodProjectBackend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-25T11:51:46.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "PinewoodProjectFrontend\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "PinewoodProjectFrontend\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T13:52:50.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\Program.cs",
+              "RelativeDocumentMoniker": "PinewoodProjectBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\Program.cs",
+              "RelativeToolTip": "PinewoodProjectBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:51:51.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\Models\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "PinewoodProjectBackend\\Models\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\Models\\CustomerProfile.cs",
+              "RelativeToolTip": "PinewoodProjectBackend\\Models\\CustomerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:38:29.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerData.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\Data\\CustomerData.cs",
+              "RelativeDocumentMoniker": "PinewoodProjectBackend\\Data\\CustomerData.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\Data\\CustomerData.cs",
+              "RelativeToolTip": "PinewoodProjectBackend\\Data\\CustomerData.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:35:13.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\Models\\Enums\\ProductType.cs",
+              "RelativeDocumentMoniker": "PinewoodProjectBackend\\Models\\Enums\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectBackend\\Models\\Enums\\ProductType.cs",
+              "RelativeToolTip": "PinewoodProjectBackend\\Models\\Enums\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:04:32.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Models\\Enums\\ProductType.cs",
+              "RelativeDocumentMoniker": "PinewoodProjectFrontend\\Components\\Models\\Enums\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Models\\Enums\\ProductType.cs",
+              "RelativeToolTip": "PinewoodProjectFrontend\\Components\\Models\\Enums\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:40:22.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Models\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "PinewoodProjectFrontend\\Components\\Models\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Models\\CustomerProfile.cs",
+              "RelativeToolTip": "PinewoodProjectFrontend\\Components\\Models\\CustomerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:39:03.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "PinewoodProjectFrontend\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Routes.razor",
+              "RelativeToolTip": "PinewoodProjectFrontend\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T11:53:47.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Program.cs",
+              "RelativeDocumentMoniker": "PinewoodProjectFrontend\\Program.cs",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Program.cs",
+              "RelativeToolTip": "PinewoodProjectFrontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:19:45.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\App.razor",
+              "RelativeDocumentMoniker": "PinewoodProjectFrontend\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\App.razor",
+              "RelativeToolTip": "PinewoodProjectFrontend\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T13:51:18.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "PinewoodProjectFrontend\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "PinewoodProjectFrontend\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T13:52:59.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "PinewoodProjectFrontend\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\_Imports.razor",
+              "RelativeToolTip": "PinewoodProjectFrontend\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T13:51:27.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "PinewoodProjectFrontend\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "PinewoodProjectFrontend\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T13:51:36.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

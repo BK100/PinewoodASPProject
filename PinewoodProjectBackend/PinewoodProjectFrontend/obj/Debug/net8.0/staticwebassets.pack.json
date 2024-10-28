@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PinewoodProjectFrontend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PinewoodProjectFrontend.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Floof\\Desktop\\Game\\Repo\\PinewoodASPProject\\PinewoodProjectBackend\\PinewoodProjectFrontend\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PinewoodProjectFrontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PinewoodProjectFrontend.props",
+      "PackagePath": "build\\PinewoodProjectFrontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PinewoodProjectFrontend.props",
+      "PackagePath": "buildMultiTargeting\\PinewoodProjectFrontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PinewoodProjectFrontend.props",
+      "PackagePath": "buildTransitive\\PinewoodProjectFrontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
